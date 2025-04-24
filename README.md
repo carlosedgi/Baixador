@@ -32,6 +32,10 @@ pip install yt-dlp
 
 Além disso, tenha o `ffmpeg` instalado e acessível no PATH do sistema (recomendado para melhor performance com `yt-dlp`).
 
+### Dependências do sistema
+
+- [FFmpeg](https://ffmpeg.org/download.html) instalado e acessível via terminal (verifique com `ffmpeg -version`)
+
 ---
 
 ## 💻 Como usar
