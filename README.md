@@ -1,4 +1,4 @@
-Para instalar esta biblioteca, baixe e instale antes a FFMPEG.
+Para rodar este script, baixe e instale antes a FFMPEG.
 
 Baixe aqui: https://www.ffmpeg.org/
 
